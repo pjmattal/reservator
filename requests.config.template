@@ -1,0 +1,9 @@
+[reservator]
+username: <email>
+password: <password>
+venue: <restaurant>
+date: <yyyy-mm-dd>
+time: <hh in 24h>
+guests: <#>
+lat: <latitude>
+long: <longitude>
